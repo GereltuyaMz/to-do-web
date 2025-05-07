@@ -117,6 +117,7 @@ function App() {
         </div>
 
         {/* tasks */}
+        {/* tasks */}
         <div className="w-full flex flex-col gap-5">
           {filteredData.map((task) => {
             return (
