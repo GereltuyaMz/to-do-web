@@ -11,6 +11,7 @@ const labelsData = [
   { id: 8, name: "Java" },
   { id: 9, name: "Node.js" },
   { id: 10, name: "Next.js" },
+  { id: 11, name: "Tailwind" },
 ];
 
 export const MultiSelectDropdown = () => {
